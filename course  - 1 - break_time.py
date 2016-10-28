@@ -2,7 +2,7 @@ import time
 import webbrowser
 
 video_url     = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-break_time    = 2 * 60 * 60 # 2 Hours
+break_time    = 2 * 60 * 60 ### 2 Hours
 break_counter = 0
 total_breaks  = 3
 
