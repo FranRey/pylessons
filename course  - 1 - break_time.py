@@ -4,7 +4,7 @@ import webbrowser
 video_url     = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 break_time    = 2 * 60 * 60 ### 2 Hours
 break_counter = 0
-total_breaks  = 3
+total_breaks  = 4
 
 print("Break Time Tools Initialized at " + time.ctime())
 
